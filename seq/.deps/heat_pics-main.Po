@@ -1,0 +1,11 @@
+heat_pics-main.o: ../src/main.c ../src/compute.h ../src/input.h \
+ /usr/local/Cellar/gcc/6.3.0_1/lib/gcc/6/gcc/x86_64-apple-darwin16.3.0/6.3.0/include/stddef.h \
+ ../src/output.h
+
+../src/compute.h:
+
+../src/input.h:
+
+/usr/local/Cellar/gcc/6.3.0_1/lib/gcc/6/gcc/x86_64-apple-darwin16.3.0/6.3.0/include/stddef.h:
+
+../src/output.h:
