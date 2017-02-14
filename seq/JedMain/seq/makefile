@@ -1,7 +1,7 @@
 CC := gcc
 SRC := ../src/
 OUT := main
-FLAGS := -std=c99
+FLAGS := -std=c99 -mavx
 
 all:
 	make -C ../src
